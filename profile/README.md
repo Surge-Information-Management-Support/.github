@@ -1,12 +1,5 @@
-## Hi there 👋
+# Surge Information Management Support
 
-<!--
+Surge Information Management Support (SIMS) is a global network of Information Management specialists who support IFRC emergency response operations by providing a variety of services and products. Key areas of technical support include geospatial analysis, web-based and static data visualization, mobile data collection, scenario planning, and much more.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+SIMS remote coordinators work directly with teams in-country to translate operational needs into discrete tasks, which are then assigned to specialists with the skills and experience to complete them.
